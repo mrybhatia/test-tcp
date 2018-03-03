@@ -14,7 +14,7 @@ If a client wants to say 'HELLO', it should send this format -> 'MESSAGE:5:HELLO
 
 **type** is always `MESSAGE`
 
-**length** is the size of data.
+**length** is the size of data. from the example 'MESSAGE:5:HELLO:END' 5 is the string length of 'HELLO'
 
 **data** string text of message
 
