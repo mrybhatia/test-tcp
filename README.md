@@ -21,4 +21,6 @@ If a client wants to say 'HELLO', it should send in this format -> 'MESSAGE:5:HE
 **:END** represents end of packet. (useless but worth to mention)
 
 
-<img src="https://raw.githubusercontent.com/zoroute/test-tcp/master/Untitled%20Diagram.png" />
+### Following diagram visualizes the same.
+
+<img style="width: 80%" src="https://raw.githubusercontent.com/zoroute/test-tcp/master/Untitled%20Diagram.png" />
